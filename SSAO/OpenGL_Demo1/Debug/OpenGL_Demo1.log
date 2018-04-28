@@ -1,0 +1,17 @@
+﻿  Main3(1).cpp
+c:\users\tao\documents\visual studio 2015\projects\opengl_demo1\opengl_demo1\include\loadshaders.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\tao\documents\visual studio 2015\projects\opengl_demo1\opengl_demo1\main3(1).cpp(178): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\opengl_demo1\opengl_demo1\main3(1).cpp(179): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\opengl_demo1\opengl_demo1\main3(1).cpp(180): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\opengl_demo1\opengl_demo1\main3(1).cpp(162): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\tao\documents\visual studio 2015\projects\opengl_demo1\opengl_demo1\main3(1).cpp(284): warning C4244: “参数”: 从“float”转换到“GLsizeiptr”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\opengl_demo1\opengl_demo1\main3(1).cpp(285): warning C4244: “参数”: 从“float”转换到“GLsizeiptr”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\opengl_demo1\opengl_demo1\main3(1).cpp(286): warning C4244: “参数”: 从“float”转换到“GLsizeiptr”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\opengl_demo1\opengl_demo1\main3(1).cpp(286): warning C4244: “参数”: 从“float”转换到“GLintptr”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\opengl_demo1\opengl_demo1\main3(1).cpp(287): warning C4244: “参数”: 从“float”转换到“GLsizeiptr”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\opengl_demo1\opengl_demo1\main3(1).cpp(287): warning C4244: “参数”: 从“float”转换到“GLintptr”，可能丢失数据
+c:\users\tao\documents\visual studio 2015\projects\opengl_demo1\opengl_demo1\main3(1).cpp(296): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+  OpenGL_Demo1.vcxproj -> C:\Users\tao\Documents\Visual Studio 2015\Projects\OpenGL_Demo1\Debug\OpenGL_Demo1.exe
+  OpenGL_Demo1.vcxproj -> C:\Users\tao\Documents\Visual Studio 2015\Projects\OpenGL_Demo1\Debug\OpenGL_Demo1.pdb (Full PDB)

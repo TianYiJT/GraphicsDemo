@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\tao\Documents\Visual Studio 2015\Projects\Volumetric Light\Volumetric Light\include\LoadShaders.h(36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\tao\Documents\Visual Studio 2015\Projects\Volumetric Light\Volumetric Light\include\LoadShaders.h(27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+C:\Users\tao\Documents\Visual Studio 2015\Projects\Volumetric Light\Volumetric Light\include\vmath.h(1022): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+Main.cpp(95): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+Main.cpp(96): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+Main.cpp(112): warning C4244: “初始化”: 从“GLfloat”转换到“int”，可能丢失数据
+Main.cpp(123): warning C4305: “=”: 从“double”到“GLfloat”截断
+Main.cpp(124): warning C4305: “=”: 从“double”到“GLfloat”截断
+Main.cpp(125): warning C4305: “=”: 从“double”到“GLfloat”截断
+Main.cpp(377): warning C4244: “参数”: 从“GLuint”转换到“GLfloat”，可能丢失数据
+  正在生成代码
+  All 81 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Volumetric Light.vcxproj -> C:\Users\tao\Documents\Visual Studio 2015\Projects\Volumetric Light\x64\Release\Volumetric Light.exe
+  Volumetric Light.vcxproj -> C:\Users\tao\Documents\Visual Studio 2015\Projects\Volumetric Light\x64\Release\Volumetric Light.pdb (Full PDB)

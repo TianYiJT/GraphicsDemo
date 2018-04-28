@@ -1,0 +1,26 @@
+﻿  Main3(1).cpp
+C:\Users\tao\Documents\Visual Studio 2015\Projects\OpenGL_Demo1\OpenGL_Demo1\include\LoadShaders.h(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+D:\FBX\2018.1.1\include\fbxsdk/scene/geometry/fbxlayer.h(1040): error C2059: 语法错误:“<parameter-list>”
+  D:\FBX\2018.1.1\include\fbxsdk/scene/geometry/fbxlayer.h(1292): note: 参见对正在编译的类 模板 实例化“fbxsdk::FbxLayerElementTemplate<Type>”的引用
+D:\FBX\2018.1.1\include\fbxsdk/scene/geometry/fbxlayer.h(1041): error C2334: “{”的前面有意外标记；跳过明显的函数体
+Main3(1).cpp(181): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Main3(1).cpp(182): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Main3(1).cpp(183): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+Main3(1).cpp(165): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+Main3(1).cpp(288): warning C4244: “参数”: 从“float”转换到“GLsizeiptr”，可能丢失数据
+Main3(1).cpp(289): warning C4244: “参数”: 从“float”转换到“GLsizeiptr”，可能丢失数据
+Main3(1).cpp(290): warning C4244: “参数”: 从“float”转换到“GLsizeiptr”，可能丢失数据
+Main3(1).cpp(290): warning C4244: “参数”: 从“float”转换到“GLintptr”，可能丢失数据
+Main3(1).cpp(291): warning C4244: “参数”: 从“float”转换到“GLsizeiptr”，可能丢失数据
+Main3(1).cpp(291): warning C4244: “参数”: 从“float”转换到“GLintptr”，可能丢失数据
+Main3(1).cpp(302): warning C4838: 从“float”转换到“int”需要收缩转换
+Main3(1).cpp(302): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+Main3(1).cpp(307): warning C4244: “参数”: 从“float”转换到“GLsizeiptr”，可能丢失数据
+Main3(1).cpp(308): warning C4244: “参数”: 从“float”转换到“GLsizeiptr”，可能丢失数据
+Main3(1).cpp(309): warning C4244: “参数”: 从“float”转换到“GLsizeiptr”，可能丢失数据
+Main3(1).cpp(309): warning C4244: “参数”: 从“float”转换到“GLintptr”，可能丢失数据
+Main3(1).cpp(310): warning C4244: “参数”: 从“float”转换到“GLsizeiptr”，可能丢失数据
+Main3(1).cpp(310): warning C4244: “参数”: 从“float”转换到“GLintptr”，可能丢失数据
+Main3(1).cpp(319): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
